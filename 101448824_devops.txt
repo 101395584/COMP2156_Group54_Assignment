@@ -5,4 +5,6 @@ Students learn to utilize popular DevOps tools such as Git, Jenkins, Docker, Kub
 Ansible to automate processes and streamline collaboration between development and operations teams.
  Through hands-on projects and practical exercises, students gain proficiency in building and managing
  cloud-native applications and infrastructure, enabling them to effectively support modern software development practices. 
-
+Additionally, the course emphasizes the importance of communication, teamwork, and problem-solving
+ skills, preparing students for successful careers in DevOps roles where they play a crucial role in
+ accelerating software delivery and enhancing organizational agility.
