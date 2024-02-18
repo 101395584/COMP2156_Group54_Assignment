@@ -1,4 +1,8 @@
 COMP2156 DevOps course at George Brown College in Toronto is designed to equip students with the essential skills and knowledge needed to thrive in the rapidly evolving field of DevOps.
-This comprehensive course covers various aspects of DevOps, including continuous integration, continuous delivery, infrastructure as code, automated testing, and deployment pipelines. 
-Students learn to utilize popular DevOps tools such as Git, Jenkins, Docker, Kubernetes, and Ansible to automate processes and streamline collaboration between development and operations teams. Through hands-on projects and practical exercises, students gain proficiency in building and managing cloud-native applications and infrastructure, enabling them to effectively support modern software development practices. 
+This comprehensive course covers various aspects of DevOps, including continuous integration, 
+continuous delivery, infrastructure as code, automated testing, and deployment pipelines. 
+Students learn to utilize popular DevOps tools such as Git, Jenkins, Docker, Kubernetes, and 
+Ansible to automate processes and streamline collaboration between development and operations teams.
+ Through hands-on projects and practical exercises, students gain proficiency in building and managing
+ cloud-native applications and infrastructure, enabling them to effectively support modern software development practices. 
 
