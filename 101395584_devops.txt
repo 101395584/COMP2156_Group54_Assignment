@@ -1,2 +1,7 @@
 COMP 2156 DevOps course covers various important topics such as version control, continuous integration, continuous deployment, and infrastructure as code.
-
+1. Containerization and Orchestration:
+   - Docker: Learn how to create and manage Docker containers for deploying and running applications in isolated environments.
+   - Kubernetes: Explore Kubernetes for orchestrating containerized applications, including concepts like pods, deployments, and services.
+2. Configuration Management:
+   - Ansible: Automate configuration management tasks across multiple servers or environments using Ansible.
+   - Puppet or Chef: Alternatively, understand Puppet or Chef for configuration management and infrastructure automation.
