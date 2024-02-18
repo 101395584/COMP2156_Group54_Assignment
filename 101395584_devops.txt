@@ -1,2 +1,2 @@
-COMP 2156 DevOps course covers various topics such as version control, continuous integration, continuous deployment, and infrastructure as code.
+COMP 2156 DevOps course covers various important topics such as version control, continuous integration, continuous deployment, and infrastructure as code.
 
